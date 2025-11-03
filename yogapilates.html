@@ -96,7 +96,7 @@
         
         <header class="text-center mb-6 md:mb-12">
             <!-- UPDATED TITLE -->
-            <h1 class="text-3xl md:text-5xl font-bold text-brand-primary">Special YOGA Pilates Membership Packages</h1>
+            <h1 class="text-3xl md:text-5xl font-bold text-brand-primary">Special Yoga Pilates Membership Packages</h1>
             <p class="text-xl md:text-2xl font-light text-brand-text mt-1 md:mt-2">UNVEIL YOUR STRENGTH. CULTIVATE YOUR PEACE.</p>
             <p class="text-base font-light text-brand-text/70 mt-1">“Achieve Flexibility and Strength”</p>
         </header>
